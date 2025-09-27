@@ -82,7 +82,7 @@ python ppt_auto_corrector.py
 输出将保存在 `corrected_ppt/` 文件夹中，文件名为 `corrected_*.jpg`。
 
 ```bash
-python image_auto_pdf.py
+python image_to_pdf.py
 ```
 
 将保存在 `corrected_ppt/` 文件夹中的图像输出为PDF `ppt_slides.pdf`。
