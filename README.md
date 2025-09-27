@@ -5,7 +5,19 @@
 
 📸 拍摄的讲座/会议 PPT → 🖼️ 标准化幻灯片图像，适用于归档、教学、笔记整理。
 
-![demo](https://via.placeholder.com/800x450?text=Demo+Image+Here)  
+🖼️ 效果对比：矫正前后
+
+<table>
+  <tr>
+    <td><img src="./image/IMG20250926100613.jpg" alt="矫正前" height="25%"></td>
+    <td><img src="./image/corrected_IMG20250926100613.jpg" alt="矫正后" height="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>矫正前</b></td>
+    <td align="center"><b>矫正后</b></td>
+  </tr>
+</table>
+
 *(示意图：左为原始照片，右为矫正后效果)*
 
 ---
