@@ -1,0 +1,6 @@
+torch>=1.13.1
+torchvision>=0.14.1
+opencv-python>=4.8.0
+numpy>=1.24.0
+segment_anything>=1.0
+natsort>=8.0
